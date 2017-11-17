@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin Toast Array</string>
+    <string name="mesajGoster">Mesaj Göster</string>
+</resources>
